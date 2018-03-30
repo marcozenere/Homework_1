@@ -1,0 +1,6 @@
+<launch>
+    <node name="talker_homework" pkg="Homework_1" type="talker_homework" />
+    <node name="listener_homework_keyboard" pkg="Homework_1" type="listener_homework_keyboard" output="screen" launch-prefix="xterm -e" />
+    <node name="listener_homework" pkg="Homework_1" type="listener_homework" output="screen" />
+</launch>
+
