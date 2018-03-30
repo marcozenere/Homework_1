@@ -25,11 +25,7 @@ what part of message to display on the screen.
 
 This is the rqt_graph of the package
 
-![rqt_graph](images/rqt_graph_homework_1.png)
-
-Homescreen of the program
-
-![homescreen_program](images/homescreen_homework_1.png)
+![rqt_graph](image/rqt_graph_homework_1.png)
 
 =How to launch=
 
@@ -37,7 +33,7 @@ In the terminal type the command :
 
 roslaunch Homework_1 homework_1.launch
 
-![ros_launch](images/ros_launch_homework_1.png)
+![ros_launch](image/ros_launch_homework_1.png)
 
 Please, report suggestions/comments/bugs to<br>
 marco.zenere@studenti.univr.it
